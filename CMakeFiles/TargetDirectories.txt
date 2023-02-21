@@ -1,0 +1,3 @@
+C:/Users/Admin/Documents/GitHub/glfw/debug/CMakeFiles/glfw.dir
+C:/Users/Admin/Documents/GitHub/glfw/debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/GitHub/glfw/debug/CMakeFiles/rebuild_cache.dir
